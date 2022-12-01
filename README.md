@@ -31,3 +31,6 @@ colabs at : https://github.com/eyaltrabelsi/my-notebooks/tree/master/Lectures/se
 (try to use different data set if possible)
 
 
+solution:
+
+https://colab.research.google.com/drive/1Onzg6YC8_-qVE4sBlRtX4v25eDHXaBkT?authuser=3
